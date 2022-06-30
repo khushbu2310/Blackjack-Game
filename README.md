@@ -1,5 +1,5 @@
 # Blackjack-Game
-Blackjack game using HTML, CSS, JavaScript.
+Blackjack game is made using HTML, CSS, JavaScript.
 
 This game can be played with dealer which is computer. Player needs to click on the hit button until the score busts. Then click on
 stand button for the turn of dealer.
